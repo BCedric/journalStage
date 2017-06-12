@@ -1,0 +1,4 @@
+screenshot de host/tab-patches
+Snapshot delta backup
+Screenshot vm démarrée
+ScreenShot Vm éteinte
